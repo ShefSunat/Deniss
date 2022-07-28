@@ -1,0 +1,132 @@
+*   
+{
+    margin: 0;  
+}
+.container  
+{
+    width: 100%;
+    margin: auto;
+    background-color: white;
+   
+}
+.container2
+{
+    width: 60%;
+  margin: auto;
+}
+ul 
+{
+    display: flex;
+    justify-content: space-between;
+    
+    text-decoration: none;
+}
+header
+{
+    width: 100%;
+    margin-bottom: 15px;
+    border-bottom: 1px grey solid;
+
+}
+a 
+{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+
+}
+.firstpage
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+     
+}
+#lan
+{
+    transform:rotate(-90deg);
+   
+}
+#img1
+{
+    width:100%
+}
+.down
+{
+    background-color: #f6f6f6;
+}
+.aboutme
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+  padding:150px 0px ;
+    
+}
+.firstpage h3,.firstpage h4,.firstpage h2
+{
+    margin: 0%;
+}
+i
+{
+    font-size: 2em;
+    background-color: green;
+}
+.skills
+{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+}
+.skills h6
+{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-size:1.2em;
+}
+#text
+{
+    padding: 40px;
+}
+.sloy8
+{
+    padding:70px 0;
+    text-align: center;
+}
+.sloy8 h3
+{
+    padding: 20px;
+    font-size: 2em;
+    font-family: cursive;
+    text-align: center;
+}
+.sloy8 a
+{
+  margin-top: 16px;  
+}
+.footer
+{
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+    font-size: 1.1em;
+    
+}
+.footer h2,.footer h6,footer img
+{
+    padding: 30px;
+    font-size: 1.6em;
+}
+#send
+{
+    margin: 0px 10px 30px 10px ;
+    border-radius: 15px;
+    background-color: black;
+    color: wheat;
+    padding: 12px;
+}
+#eng,#home
+{
+    color: gray;
+}
